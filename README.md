@@ -14,6 +14,6 @@
           command:
           - /bin/bash
           - -c
-          - /usr/bin/schedulePod2dns.sh
+          - /usr/bin/schedulePod2sky.sh
             --cluster_domain=test.com 
             --kube_master_url=http://192.168.1.200:8080
