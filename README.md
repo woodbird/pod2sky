@@ -1,5 +1,5 @@
 
-在skydns-rc.yaml中添加container:
+add a container in skydns-rc.yaml:
 
     - name: pod2sky
           image: woodbird/pod2dns:0.5
