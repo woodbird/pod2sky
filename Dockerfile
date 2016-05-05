@@ -1,5 +1,5 @@
 FROM alpine:latest
-MAINTAINER MarcoXu<min.xu@fengxingsoftware.com>
+MAINTAINER MarcoXu<woodbird456@gmail.com>
 ADD jq /usr/bin/
 ADD pod2dns.sh /usr/bin
 ADD schedulePod2dns.sh /usr/bin
