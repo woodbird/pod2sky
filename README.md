@@ -2,7 +2,7 @@
 add a container in skydns-rc.yaml:
 
     - name: pod2sky
-          image: woodbird/pod2dns:latest
+          image: woodbird/pod2sky:latest
           resources:
             # keep request = limit to keep this container in guaranteed class
             limits:
