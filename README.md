@@ -1,0 +1,2 @@
+# pod2sky
+skydns扩展，kubernetes中pod的hostname到ip的解析及反向解析
